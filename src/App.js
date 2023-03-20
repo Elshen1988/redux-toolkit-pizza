@@ -29,7 +29,7 @@ function App() {
           
         <AsideComponent/>
         
-        <p>Total prise : {totalPrice} AZN</p>
+        <p className='total'>Total prise : {totalPrice} AZN</p>
       </div>
      </div>
      

@@ -1,6 +1,6 @@
 body {
   background: rgb(0, 0, 0);
-
+max-width: 1800px;
 }
 
 .heder {
@@ -87,6 +87,7 @@ p {
 }
 
 .asideDiv {
+  margin-left: 40px;
   border: 10px solid rgb(35, 17, 17);
   border-radius: 10px;
   height: 500px;
@@ -169,4 +170,7 @@ p {
   font-weight: 800;
   cursor: pointer;
   margin-left: 10px;
+}
+.total{
+  margin-left: 40px;
 }
