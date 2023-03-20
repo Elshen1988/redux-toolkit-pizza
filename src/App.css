@@ -51,7 +51,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   column-gap: 10px;
   row-gap: 1em;
-  margin-left: 200px;
+  margin-left: 50px;
 
 }
 
