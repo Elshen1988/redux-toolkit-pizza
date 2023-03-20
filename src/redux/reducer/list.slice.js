@@ -10,7 +10,7 @@ const listSlice = createSlice({
             state.value = [...state.value, action.payload]
         },
         dellister: (state, action) => {
-            state.value = [action.payload]
+            state.value = [...action.payload]
         }
       
     }

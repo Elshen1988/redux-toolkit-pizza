@@ -17,6 +17,7 @@ const Pizza = () => {
   const searchFun = (e) => {
     setSearch(pizzas.filter(pizza => pizza.name.includes(e)))
   }
+  
 
   return (
     <div className='pizzaDiv'>
@@ -26,7 +27,7 @@ const Pizza = () => {
           <img className='pizzaİMG'alt='dc' src={pizza.img} />
           <p>{pizza.name}</p>
           <p>{pizza.dsc}</p>
-          <p> Price: {pizza.price} AZN</p><a href='##' onClick={() => dispach(addlist(pizza))}   className='btn'>+add</a>
+          <a href='##' onClick={() => dispach(addlist(pizza))}   className='btn'>+add</a>
         </div>)
       }
 

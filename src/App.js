@@ -1,13 +1,16 @@
 
 // import { useDispatch } from 'react-redux';
 
+import { useSelector } from 'react-redux';
 import './App.css';
 import { AsideComponent } from './AsideComponent/AsideComponent';
 import Pizza from './components/Pizza';
 
 function App() {
 
-
+  let list = useSelector(state => state.list.value)
+  
+    let totalPrice = list?.reduce((a, b) => (a + b.price), 0)
   return (
    
     <div>
@@ -25,7 +28,8 @@ function App() {
       <div className='AsideComponent'>
           
         <AsideComponent/>
-        <p>Total prise :</p>
+        
+        <p>Total prise : {totalPrice} AZN</p>
       </div>
      </div>
      

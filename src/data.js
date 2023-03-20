@@ -134,15 +134,7 @@ export const pizzas = [
         "rate": 4,
         "country": "Milaca, MN"
     },
-    {
-        "id": "17408-coal-oven-margherita-pizza-pie-4-pack",
-        "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/72343/coal-oven-margherita-pizza-pie-4-pack.c5944293e17b40f2659562179b493a10.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-        "name": "Table 87 Pizza",
-        "dsc": "Coal Oven Margherita Pizza - 4 Pies",
-        "price": 79,
-        "rate": 5,
-        "country": "Brooklyn, NY"
-    },
+  
     {
         "id": "15464-detroit-style-pizza-squares-choose-your-own-3-pack",
         "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/112202/detroit-style-pizza-squares-choose-your-own-3-pack.75f7714d9a81fb455f7400086e4195bf.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -233,15 +225,7 @@ export const pizzas = [
         "rate": 4,
         "country": "Boston, MA"
     },
-    {
-        "id": "17409-coal-oven-margherita-pizza-slices-8-pack",
-        "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134133/coal-oven-margherita-pizza-8-slices.a6e3c0e43bf45c956014f064e25735cd.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-        "name": "Table 87 Pizza",
-        "dsc": "New York Pizza - 8 Giant Slices",
-        "price": 79,
-        "rate": 5,
-        "country": "Brooklyn, NY"
-    },
+  
     {
         "id": "2-lou-malnatis-deep-dish-pizzas-lezza-chocolate-cake",
         "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106830/2-lou-malnatis-deep-dish-pizzas-lezza-chocolate-cake.f791b76ca45f684a6c0512aa4aec56aa.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -287,15 +271,7 @@ export const pizzas = [
         "rate": 4,
         "country": "Staten Island, NY"
     },
-    {
-        "id": "chicago-deep-dish-pizza-3-pack",
-        "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/101630/chicago-deep-dish-pizza-choose-your-own-3-pack.b795d4f915c116ba9e7f2e7951e79ad0.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-        "name": "Gino's East",
-        "dsc": "Chicago Deep Dish Pizza Box - Choose Your Own 3 Pack",
-        "price": 89,
-        "rate": 5,
-        "country": "Chicago, IL"
-    },
+   
     {
         "id": "choose-your-own-bar-pizza-4-pack",
         "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133147/choose-your-own-bar-pizza-4-pack.2576e0f60267c680022bd3466542bb9e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
@@ -323,15 +299,7 @@ export const pizzas = [
         "rate": 5,
         "country": "Chicago, IL"
     },
-    {
-        "id": "choose-your-own-6-pizzas",
-        "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/82735/choose-your-own-6-pizzas.5e9950eb1a06f3b87543f867506511b2.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-        "name": "Heggies Pizza",
-        "dsc": "Choose Your Own - 6 Pizzas",
-        "price": 119,
-        "rate": 5,
-        "country": "Milaca, MN"
-    },
+  
     {
         "id": "pan-style-deep-dish-pizza-choose-your-own-2-pack",
         "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/137018/Pequods-CYO-2-Pack-Product.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",

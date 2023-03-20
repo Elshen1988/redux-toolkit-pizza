@@ -77,7 +77,6 @@ p {
 
 .pizzaDiv2 p {
   padding-left: 15px;
-
   justify-content: center;
 }
 
@@ -93,12 +92,13 @@ p {
   height: 500px;
   width: 450px;
   overflow-y: scroll;
-  margin-top: 100px;
+  
 }
 
 .searchİnput {
   position: absolute;
-  right: 10px;
+  left: 10px;
+  top: 140px;
   width: 450px;
   height: 30px;
   border-radius: 5px;
