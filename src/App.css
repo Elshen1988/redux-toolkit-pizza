@@ -1,6 +1,6 @@
 body {
   background: rgb(0, 0, 0);
-max-width: 1800px;
+  max-width: 1800px;
 }
 
 .heder {
@@ -51,7 +51,7 @@ max-width: 1800px;
   grid-template-columns: repeat(3, 1fr);
   column-gap: 10px;
   row-gap: 1em;
-  margin-left: 400px;
+  margin-left: 200px;
 
 }
 
@@ -87,24 +87,22 @@ p {
 }
 
 .asideDiv {
-  margin-left: 40px;
+
   border: 10px solid rgb(35, 17, 17);
   border-radius: 10px;
   height: 500px;
   width: 450px;
   overflow-y: scroll;
-  
+
 }
 
 .searchİnput {
   position: absolute;
-  left: 10px;
-  top: 140px;
-  width: 450px;
+  left: 50px;
+  top: 190px;
+  width: 300px;
   height: 30px;
   border-radius: 5px;
-  margin-top: 50px;
-  margin-bottom: 5px;
   font-size: 20px;
 }
 
@@ -162,7 +160,8 @@ p {
   right: 0;
   opacity: 1;
 }
-.delBtn{
+
+.delBtn {
   background: none;
   border: none;
   color: white;
@@ -171,6 +170,7 @@ p {
   cursor: pointer;
   margin-left: 10px;
 }
-.total{
+
+.total {
   margin-left: 40px;
 }
